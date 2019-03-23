@@ -1,4 +1,4 @@
 textwo
 
 Added info from folder 2
-INFO3
+INFO2 and INFO3
