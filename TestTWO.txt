@@ -1,1 +1,3 @@
 textwo
+
+Added info from folder 2
